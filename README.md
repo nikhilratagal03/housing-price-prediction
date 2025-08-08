@@ -46,5 +46,6 @@ Thank you for your interest in this project. I sincerely hope this work helps yo
 Happy coding!
 
 — Nikhil Ratagal
-The model is deployed via a Streamlit web app, enabling easy interaction for users to predict house prices based on input features.
+
+— Nikhil Ratagal
 
